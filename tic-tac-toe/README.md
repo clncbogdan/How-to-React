@@ -7,7 +7,14 @@ Hello! This is tic-tac-toe game featured on ReactJS documentation. At the moment
  - Store a game history as the game progresses
  - Allow players to navigate back to previous moves.
 
-It is a great start to dive into React framework and learn some of the basic terminology and best practices. 
+It is a great start to dive into React framework and learn some of the basic terminology and best practices.
+
+# How to run
+
+ 1. Clone the project on your local machine;
+ 2. Navigate to that folder and open a terminal inside the folder;
+ 3. Run `npm start` from the command line;
+ 4. Enjoy! :)
 
 # Key concepts
 
