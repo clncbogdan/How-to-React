@@ -1,4 +1,5 @@
 import React from 'react';
+import './App.css';
 import { CardList } from './components/card-list/card-list.component';
 import { SearchBox } from './components/search-box/search-box.component';
 
@@ -28,6 +29,7 @@ class App extends React.Component {
 		);
 		return (
 			<div className="App">
+				<h1>Monster House</h1>
 				<SearchBox
 					placeholder="Search monsters"
 					handleChange={this.handleSearchBoxChange}
